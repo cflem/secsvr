@@ -1,0 +1,6 @@
+========== [ SECSVR SUITE ] ==========
+This is a piece of template software that allows one to create a simple,
+multi-threaded server for handling client requests, tunneling over TLS.
+
+Pieces of this suite can and will be reused in many of other projects of
+mine. Feel free to use under the MIT license.
